@@ -1,7 +1,7 @@
 #                  Welcome to Waldo Vazzi's Profile! :wave:   
-### Data Scientist applied on Sports and   
+## Data Scientist  
 
-I am an Mexican data scientist and aspiring tech writer. 
+I'm Waldo. 
 
 ---
 ### Languages and tools
