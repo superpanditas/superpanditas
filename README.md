@@ -3,6 +3,7 @@
 
 I'm Waldo. 
 
+Mathematician with strong background in statistics and programming languages. 
 ---
 ### Languages and tools
 
