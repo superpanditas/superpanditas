@@ -1,16 +1,22 @@
-#                  Welcome to Waldo Vazzi's Profile! :wave:   
-## Data Scientist  
+# About Me
 
-I'm Waldo. 
+:wave: Hi, I'm Waldo Vazquez!. I'm a mathematician with a deep passion for machine learning, business intelligence, and cybersecurity. My expertise spans across data analysis, dashboarding, and modeling that deliver actionable insights.
 
-Mathematician with strong background in statistics and programming languages. 
+
+🧰 **Tools & Technologies**
+
+-  **Analysis & Visualization**: Power BI, Microsoft Excel (Power Pivot, Power Query, Pivot Charts, Data Modeling, and DAX), Google Sheets and Slides.
+-  **Programing**: Python, Bash Scripting
+-  **Database Management**: MySQL, PostgreSQL, Hive
+-  **Libraries**: Pandas, Numpy, Scikit-Learn, Matplotlib, Statsmodels, Selenium, SKtime
+-  **Frameworks** Apache Airflow, Git
+
 ---
-### Languages and tools
+#### Languages and tools
 
 <img align="left" alt="Java" width="38px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
 <img align="left" alt="Java" width="38px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>  
 <br />  
-
 
 ---
 
